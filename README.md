@@ -1,4 +1,4 @@
-# Neural Networks
+# Optimizing Neural Networks for Next-Gen AI
 
 ## Background
 All of the code provided, with the exception of the 'resources' folder, was developed during my time in the SULI program at Brookhaven National Laboratory. I would like to give special thanks to Yihui "Ray" Ren and Sandeep Mittal for their assistance. At the time of writing this, I am senior physics student at Stevens Institute of Technology. 
